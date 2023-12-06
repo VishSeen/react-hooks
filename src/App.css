@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.cards-list {
+    display: flex;
+        flex-wrap: wrap;
+        gap: 19px;
+}
+.card {
+    background-color: #fafafa;
+    padding: 10px;
+    color: #000;
+    width: 93px;
+}
